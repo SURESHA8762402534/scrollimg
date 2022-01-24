@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFsdZvrH5POYPjx7KiU_KU8DccIeX8YGn5Q&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    margin: 5px;
+    display: inline-flexbox;
+    width: 100vw;
+    text-align: center;
+}
+.img{
+    margin: 5px;
+    width: 25%;
+}
